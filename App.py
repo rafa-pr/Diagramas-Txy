@@ -7,7 +7,7 @@ Created on Mon Mar 22 18:49:11 2021
 
 import tkinter as tk 
 import sys
-sys.path.insert(1,'/Home/Documents/rafa/Universidad/Séptimo/Modelamiento')
+sys.path.insert(1,Datos.py)
 import Datos as cl 
 import math as mt
 import numpy as np
